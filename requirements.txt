@@ -1,0 +1,16 @@
+jupyter
+pathlib
+scikit-image
+numpy
+scipy < 1.14.0
+pandas
+scikit-learn
+matplotlib
+astropy
+sunpy
+SolAster
+mpl-animators>=1.0.0
+reproject>=0.9.0
+drms>=0.7.1
+zeep>=4.1.0
+lxml
